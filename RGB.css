@@ -1,3 +1,26 @@
+:root {
+  --text-color: #d8dee9;
+  --color-dark-magenta: hsl(300, 10%, 25%);
+  --color-dark-green: hsl(120, 10%, 25%);
+  --color-dark-blue: hsl(240, 10%, 30%);
+  --color-dark-red: hsl(0, 10%, 25%);
+  --color-red: hsl(0, 20%, 40%);
+  --color-light-red: hsl(0, 20%, 50%);
+  --color-green: hsl(120, 20%, 40%);
+  --color-light-green: hsl(120, 20%, 50%);
+  --color-yellow: hsl(30, 20%, 40%);
+  --color-light-yellow: hsl(30, 20%, 50%);
+  --color-magenta: hsl(300, 20%, 40%);
+  --color-light-magenta: hsl(300, 20%, 50%);
+  --color-dark-purple: hsl(240, 20%, 30%);
+  --color-purple: hsl(240, 20%, 40%);
+  --color-light-purple: hsl(240, 20%, 50%);
+  --color-blue: hsl(205, 35%, 50%);
+  --color-light-blue: hsl(205, 35%, 60%);
+  --color-bright-white: hsl(0, 0%, 100%);
+  --color-light-orange: hsl(20, 20%, 50%);
+}
+
 .text-red {
  color:#ff443d
 }
