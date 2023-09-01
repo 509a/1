@@ -1,9 +1,19 @@
 .text-red {
  color:#c60700
 }
-.text-green {
- color:#5aff93
-}
+
 .text-blue {
  color:#0064d2
+}
+
+.text-green {
+    color: rgb(99, 206, 159);
+}
+
+.text-orange {
+    color: rgb(224, 139, 61);
+}
+
+.text-purple {    
+    color: rgb(192, 159, 224);
 }
