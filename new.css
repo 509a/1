@@ -1,3 +1,4 @@
+:root {
     --torrent-row-fg: #ccc;
     --torrent-row-format-fg: #ccc;
     --torrent-row-format-bg: #3c3c3c;
@@ -17,3 +18,20 @@
     --torrent-row-highspeed-fg: var(--color-light-red);
     --torrent-row-sd-fg: var(--color-400);
     --torrent-row-bumped-fg: #ffb800;
+}
+
+.text-red {
+ color:#991b1b
+}
+
+.text-blue {
+ color:#0353ad
+}
+
+.text-green {
+    color:#3fb618
+}
+
+.text-orange {
+    color:#E86A33
+}
